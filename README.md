@@ -3,7 +3,8 @@
 👋 Hi, I'm Alberto Taddei!
 
 I graduated with a **Bachelor's degree in Mathematical Engineering** from **Politecnico di Milano**, where I developed a solid foundation in applied mathematics and numerical methods. 
-I am now part of the prestigious **EUMaster4HPC** 🇪🇺, an European double-degree program focused on training the next generation of experts in high-performance computing.
+
+I am now part of the prestigious **EUMaster4HPC** 🇪🇺, an European **double-degree** program focused on training the next generation of experts in high-performance computing.
 
 - **1st year** (Starting in **September 2024**): **High-Performance Computing Engineering (HPC)** at **Politecnico di Milano** 🇮🇹
 - **2nd year** (Starting in **September 2025**): **Mathematics and Computer Science** at **Sorbonne University** in Paris 🇫🇷
@@ -14,8 +15,8 @@ I am now part of the prestigious **EUMaster4HPC** 🇪🇺, an European double-d
 - **Medical Applications**: Exploring the role of HPC in healthcare, with a particular interest in personalized medicine and genomic analysis for disease prediction
 
 ### 🎾 Hobbies:
-- **Tennis**: I enjoy playing tennis in my free time as a way to relax and stay active.
-- **Football**: I follow football closely and watch matches regularly.
+- **Tennis**: I enjoy playing tennis in my free time as a way to relax and stay active
+- **Football**: I follow football closely and watch matches regularly
 
 ### 📫 How to reach me:
 Feel free to contact me via email: [albertotaddei1@gmail.com](mailto:albertotaddei1@gmail.com)
