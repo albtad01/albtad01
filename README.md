@@ -3,8 +3,7 @@
 👋 Hi, I'm Alberto Taddei!
 
 I graduated with a **Bachelor's degree in Mathematical Engineering** from **Politecnico di Milano**, where I developed a solid foundation in applied mathematics and numerical methods. 
-
-I am now part of the prestigious **EUMaster4HPC** 🇪🇺, an European **double-degree** program focused on training the next generation of experts in high-performance computing.
+I am now part of the prestigious **EUMaster4HPC** 🇪🇺, an European **double-degree** program focused on training the next generation of experts in high-performance computing:
 
 - **1st year** (Starting in **September 2024**): **High-Performance Computing Engineering (HPC)** at **Politecnico di Milano** 🇮🇹
 - **2nd year** (Starting in **September 2025**): **Mathematics and Computer Science** at **Sorbonne University** in Paris 🇫🇷
