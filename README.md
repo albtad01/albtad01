@@ -2,16 +2,16 @@
 
 👋 Hi, I'm Alberto Taddei!
 
-I graduated with a **Bachelor's degree in Mathematical Engineering** from **Politecnico di Milano**, where I developed a solid foundation in applied mathematics and computational methods. 
-I am now part of the prestigious **EUMaster4HPC** 🇪🇺, a European double-degree program focused on training the next generation of experts in high-performance computing.
+I graduated with a **Bachelor's degree in Mathematical Engineering** from **Politecnico di Milano**, where I developed a solid foundation in applied mathematics and numerical methods. 
+I am now part of the prestigious **EUMaster4HPC** 🇪🇺, an European double-degree program focused on training the next generation of experts in high-performance computing.
 
-- **1st year** (Starting in **September 2024**): Studying **High-Performance Computing Engineering (HPC)** at **Politecnico di Milano** 🇮🇹
-- **2nd year** (Starting in **September 2025**): I will continue my studies focusing on **Mathematics and Computer Science** at **Sorbonne University** in Paris 🇫🇷
+- **1st year** (Starting in **September 2024**): **High-Performance Computing Engineering (HPC)** at **Politecnico di Milano** 🇮🇹
+- **2nd year** (Starting in **September 2025**): **Mathematics and Computer Science** at **Sorbonne University** in Paris 🇫🇷
 
 ### 🔧 Interests:
-- **High-Performance Computing (HPC)**: Advancing computation techniques to solve complex problems in science, engineering, and industry.
-- **Artificial Intelligence**: Leveraging HPC to drive innovation in AI, including machine learning and artificial neural networks.
-- **Medical Applications**: Exploring the role of HPC in healthcare, with a particular interest in personalized medicine and genomic analysis for disease prediction.
+- **High-Performance Computing (HPC)**: Advancing computation techniques to solve complex problems in science, engineering, and industry
+- **Artificial Intelligence**: Leveraging HPC to drive innovation in AI, including machine learning and artificial neural networks
+- **Medical Applications**: Exploring the role of HPC in healthcare, with a particular interest in personalized medicine and genomic analysis for disease prediction
 
 ### 🎾 Hobbies:
 - **Tennis**: I enjoy playing tennis in my free time as a way to relax and stay active.
